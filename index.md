@@ -1,10 +1,10 @@
-## DiffPitcher: Diffusion-based Singing Voice Pitch Correction
+## Diff-Pitcher: Diffusion-based Singing Voice Pitch Correction
 
 ### Framework
 
 ![Framework](Difftuner.drawio.png)
 
-😊[DiffPitcher is available!](https://github.com/DiffPitcher/DiffPitcher/tree/main)
+😊[Diff-Pitcher is available!](https://github.com/DiffPitcher/DiffPitcher/tree/main)
 
 ### Template-based Automatic Pitch Correction Examples
 
@@ -606,4 +606,3 @@ Here are examples of score-based automatic pitch correction where the pitch curv
 </tbody>
 </table>
 <hr>
-
