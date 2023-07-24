@@ -1,4 +1,4 @@
-# DiffPitcher
+# Diff-Pitcher Demo Page
 
 🎵[Demo Page](https://diffpitcher.github.io/demo/)
 
