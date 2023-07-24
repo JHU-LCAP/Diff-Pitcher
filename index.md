@@ -1,4 +1,4 @@
-## Diff-Pitcher: Diffusion-based Singing Voice Pitch Correction
+## Diffusion-based Singing Voice Pitch Correction
 
 ### Framework
 
@@ -606,3 +606,4 @@ Here are examples of score-based automatic pitch correction where the pitch curv
 </tbody>
 </table>
 <hr>
+
